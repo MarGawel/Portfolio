@@ -14,7 +14,7 @@ Poniżej lista narzędzi, z których korzystam.
 
 * JIRA — Zgłaszanie defektów oraz praca z backlogiem.
 * TestLink — Tworzenie przypadków testowych.
-* GitHub — praca z repozytorium i dokumentacją (np. tworzenie tego portfolio).
+* Git/GitHub — praca z repozytorium i dokumentacją (np. tworzenie tego portfolio).
 
 ## Kursy
 
