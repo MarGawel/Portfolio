@@ -14,13 +14,14 @@ Poniżej lista narzędzi, z których korzystam.
 
 * JIRA — Zgłaszanie defektów oraz praca z backlogiem.
 * TestLink — Tworzenie przypadków testowych.
-* Git/GitHub — praca z repozytorium i dokumentacją (np. tworzenie tego portfolio).
+* Git/GitHub — Praca z repozytorium i dokumentacją (np. tworzenie tego portfolio).
+* Jmeter — Podstawy tworzenia testów wydajnościowych.
 
 ## Kursy
 
 * CodersLab
   * **Tester Manualny** — kurs prowadzony przez certyfikowanych trenerów ISTQB. Dużo warsztatów, na których poznałem narzędzia niezbędne w pracy testera.
-  * **Tester Automatyzujący** — jestem w trakcie kursu. 
+  * **Tester Automatyzujący** — kurs na którym nauczyłem się podstaw JAVA, Selenium WebDriver, Cucumber Framework oraz wzorca Page Object Pattern.  
 
 ## Certyfikaty
 
